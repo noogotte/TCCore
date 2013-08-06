@@ -1,0 +1,10 @@
+name: TCCore
+version: 1.0.0
+description: This is a library Plugin.
+
+author: Windcode
+website: http://www.bukkit.fr/
+
+main: fr.techcode.plugin.core.TCCore
+database: false
+depend: [Vault]
